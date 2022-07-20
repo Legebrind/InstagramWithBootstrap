@@ -1,0 +1,13 @@
+.Titulo{
+    font-weight: bolder;
+    font-size: large;
+    font-family:Lucida Handwriting, cursive;
+    font-style: oblique;
+}
+
+#titulo{
+    background-color: lightgray;
+}
+#dropdownMenuButton1:hover,#grid-tab:hover,#cards-tab:hover,#dropdownMenuButton1:focus,#grid-tab:focus,#cards-tab:focus{
+    background-color: grey;
+}
